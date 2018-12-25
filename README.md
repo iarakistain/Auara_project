@@ -9,8 +9,8 @@
 * [Usage](#usage)
   * [License and acknowledgement](#license)
     * [Electrical diagram](#electrical-diagram)
-    * [Mechanical 3D design](#mechanical-3d)
-    * [Microcontroller firmware](#microcontroller)
+    * [Mechanical 3D design](#mechanical-3d-design)
+    * [Microcontroller firmware](#microcontroller-firmware)
 * [Browser Support](#browser-support)
 
 ## Read this first
