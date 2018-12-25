@@ -46,7 +46,7 @@ In case you use it, please acknowleded IMH Institute.
 
 We have used mostly, components from SIEMENS in our design. 
 
-![Alt text](Electric-wiring-diagram/electric.jpg?raw=true "Title")
+![Alt text](img/electric.jpg)
 
 #### Mechanical 3D design
 
