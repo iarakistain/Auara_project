@@ -66,10 +66,7 @@ The code has been developed for a STM32 microcontroller, using ARDUINO.
 - Safari 6.1+
 - Internet Explorer 10+
 
-Note: modern browsers such as Chrome, Firefox, Microsoft Edge, and Safari contain native
-implementations of `window.fetch`, therefore the code from this polyfill doesn't
-have any effect on those browsers. If you believe you've encountered an error
-with how `window.fetch` is implemented in any of these browsers, you should file
+Note: If you believe you've encountered an error in any of these browsers, you should file
 an issue with that browser vendor instead of this project.
 
 
