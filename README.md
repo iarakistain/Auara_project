@@ -20,8 +20,8 @@ can help, feel free to hack this project.
 attack, in order to sustain their families and animals. They do this with the knowledge that the dirty 
 water they have collected may well make their children very ill.
 
-Using the overabundance of sunshine, the solar pump draws water from a 100-metre-deep well, providing 
-families with the water that they desperately need and rendering cases of water-related diseases a 
+Using the overabundance of sunshine,  solar pumps draw water from a 100-meter-deep well, providing 
+families with the water that they need and rendering cases of water-related diseases a 
 thing of the past.
 
 * If you have an idea for a new feature, **submit your feature
