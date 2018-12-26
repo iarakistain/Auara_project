@@ -58,7 +58,7 @@ STL design file is included.
 
 The code has been developed for a STM32 microcontroller, using ARDUINO.
 
-
+![Alt text](img/LoRaNODE.jpg)
 ## Browser Support
 
 - Chrome
