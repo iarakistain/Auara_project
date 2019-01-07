@@ -41,13 +41,6 @@ use is not allowed.
 
 In case you use it, please acknowleded IMH Institute. 
 
-
-#### Electrical diagram
-
-We have used mostly, components from SIEMENS in our design. 
-
-![Alt text](img/electric.jpg)
-
 #### Mechanical 3D design
 
 ![Alt text](img/mechanical.jpg)
@@ -55,6 +48,12 @@ We have used mostly, components from SIEMENS in our design.
 
 STL design file is included.
 
+
+#### Electrical diagram
+
+We have used mostly, components from SIEMENS in our design. 
+
+![Alt text](img/electric.jpg)
 
 
 #### Microcontroller firmware
