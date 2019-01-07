@@ -50,6 +50,9 @@ We have used mostly, components from SIEMENS in our design.
 
 #### Mechanical 3D design
 
+![Alt text](img/mechanical.jpg)
+![Alt text](img/electric3D.jpg)
+
 STL design file is included.
 
 
