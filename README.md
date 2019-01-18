@@ -12,8 +12,8 @@ can help, feel free to hack this project.
     * [Electrical diagram](#electrical-diagram)
     * [Mechanical 3D design](#mechanical-3d-design)
     * [Lora sensor node](#lora-sensor-node)
-	 *[Automaton SIEMENS PLC](#automation-siemens-plc)
-	 *[Dashboard](#dashboard)
+	* [Automaton SIEMENS PLC](#automation-siemens-plc)
+	* [Dashboard](#dashboard)
 * [Browser Support](#browser-support)
 
 ## Read this first
