@@ -12,7 +12,7 @@ can help, feel free to hack this project.
     * [Electrical diagram](#electrical-diagram)
     * [Mechanical 3D design](#mechanical-3d-design)
     * [Lora sensor node](#lora-sensor-node)
-	* [Automaton SIEMENS PLC](#automation-siemens-plc)
+	* [Automation SIEMENS PLC](#automation-siemens-plc)
 	* [Dashboard](#dashboard)
 * [Browser Support](#browser-support)
 
@@ -64,7 +64,7 @@ The code has been developed for a STM32 microcontroller, using ARDUINO. A T-BEAM
 
 ![Alt text](img/LoRaNODE.jpg)
 
-#### Automaton SIEMENS PLC
+#### Automation SIEMENS PLC
 
 We have used a SIEMES S7-1200 PLC. 
 
