@@ -11,7 +11,9 @@ can help, feel free to hack this project.
   * [License and acknowledgement](#license)
     * [Electrical diagram](#electrical-diagram)
     * [Mechanical 3D design](#mechanical-3d-design)
-    * [Microcontroller firmware](#microcontroller-firmware)
+    * [Lora sensor node](#lora-sensor-node)
+	 *[Automaton SIEMENS PLC](#automation-siemens-plc)
+	 *[Dashboard](#dashboard)
 * [Browser Support](#browser-support)
 
 ## Read this first
@@ -56,11 +58,20 @@ We have used mostly, components from SIEMENS in our design.
 ![Alt text](img/electric.jpg)
 
 
-#### Microcontroller firmware
+#### LoRa sensor node
 
-The code has been developed for a STM32 microcontroller, using ARDUINO.
+The code has been developed for a STM32 microcontroller, using ARDUINO. A T-BEAM board has been used for this purpose. The sketch sends 0-10V sensor data over LoRa every 30 seconds.
 
 ![Alt text](img/LoRaNODE.jpg)
+
+#### Automaton SIEMENS PLC
+
+We have used a SIEMES S7-1200 PLC. 
+
+#### Dashboard
+
+We have developed this dashboard in TABLEAU. 
+
 ## Browser Support
 
 - Chrome
