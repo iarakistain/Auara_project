@@ -68,6 +68,8 @@ The code has been developed for a STM32 microcontroller, using ARDUINO. A T-BEAM
 
 We have used a SIEMES S7-1200 PLC. 
 
+![Alt text](img/PLC.jpg)
+
 #### Dashboard
 
 We have developed this dashboard in TABLEAU. 
