@@ -33,7 +33,7 @@ thing of the past.
 ## Usage
 
 For a more comprehensive reference, refer to
-https://github.com/iarakistain/Auara_project
+https://www.tactizity.com/auara or you can visit the project log in HACKADAY: https://hackaday.io/project/163079-remote-solar-water-pump
 
 ### License and acknowledgement
 
