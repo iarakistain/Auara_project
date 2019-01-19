@@ -18,7 +18,7 @@ can help, feel free to hack this project.
 
 ## Read this first
 
-*In drought-affected areas of Kenya, women must walk miles to find water, risking violence or animal 
+*In drought-affected areas of Africa, women must walk miles to find water, risking violence or animal 
 attack, in order to sustain their families and animals. They do this with the knowledge that the dirty 
 water they have collected may well make their children very ill.
 
