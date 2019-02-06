@@ -74,6 +74,8 @@ We have used a SIEMES S7-1200 PLC.
 
 We have developed this dashboard in TABLEAU. 
 
+![Alt text](img/tableau.jpg)
+
 ## Browser Support
 
 - Chrome
