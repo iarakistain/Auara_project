@@ -72,9 +72,9 @@ The code has been developed for a STM32 microcontroller, using ARDUINO. A T-BEAM
 
 #### Dashboard
 
-We have developed [this dashboard in TABLEAU] (https://public.tableau.com/views/Bomba1/WaterPump1?:embed=y&:display_count=yes&publish=yes??:showVizHome=no) 
+We have developed [this dashboard in TABLEAU](https://public.tableau.com/views/Bomba1/WaterPump1?:embed=y&:display_count=yes&publish=yes??:showVizHome=no) 
 
-The location of the water pump in Tamarou, Benin [can be seen here] (https://www.melown.com/cloud/link/1wMKtscRAQchNlIYUSC7) 
+The location of the water pump in Tamarou, Benin [can be seen here](https://www.melown.com/cloud/link/1wMKtscRAQchNlIYUSC7) 
 
 ![Alt text](img/tableau.jpg)
 
