@@ -57,6 +57,11 @@ We have used mostly, components from SIEMENS in our design.
 
 ![Alt text](img/electric.jpg)
 
+#### Automation SIEMENS PLC
+
+We have used a SIEMES S7-1200 PLC. 
+
+![Alt text](img/PLC.jpg)
 
 #### LoRa sensor node
 
@@ -64,15 +69,12 @@ The code has been developed for a STM32 microcontroller, using ARDUINO. A T-BEAM
 
 ![Alt text](img/LoRaNODE.jpg)
 
-#### Automation SIEMENS PLC
-
-We have used a SIEMES S7-1200 PLC. 
-
-![Alt text](img/PLC.jpg)
 
 #### Dashboard
 
-We have developed this dashboard in TABLEAU. 
+We have developed [this dashboard in TABLEAU] (https://public.tableau.com/views/Bomba1/WaterPump1?:embed=y&:display_count=yes&publish=yes??:showVizHome=no) 
+
+The location of the water pump in Tamarou, Benin [can be seen here] (https://www.melown.com/cloud/link/1wMKtscRAQchNlIYUSC7) 
 
 ![Alt text](img/tableau.jpg)
 
