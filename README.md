@@ -46,6 +46,7 @@ In case you use it, please acknowleded IMH Institute.
 #### Mechanical 3D design
 
 ![Alt text](img/mechanical.jpg)
+![Alt text](img/Diagram.jpg)
 ![Alt text](img/electric3D.jpg)
 
 STL design file is included.
@@ -67,6 +68,7 @@ We have used a SIEMES S7-1200 PLC.
 
 The code has been developed for a STM32 microcontroller, using ARDUINO. A T-BEAM board has been used for this purpose. The sketch sends 0-10V sensor data over LoRa every 30 seconds.
 
+![Alt text](img/Arduino.png)
 ![Alt text](img/LoRaNODE.jpg)
 
 
